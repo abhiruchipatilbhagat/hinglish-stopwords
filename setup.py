@@ -2,7 +2,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='hinglish-stopwords',
+    name='hinglish_stopwords',
     version='0.1.0',
     description='A simple library to filter hinglish stopwords from text.',
     author='abhiruchipatilbhagat',
